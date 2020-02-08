@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Achievements"
+title = "Awards"
 subtitle = ""
 
 # Date format
@@ -46,6 +46,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2016-02-01"
   date_end = ""
-  description = "City-level selection of Olimpiade Sains Nasional held by the Ministry of Education."
+  description = "City-level selection of Olimpiade Sains Nasional."
 
 +++

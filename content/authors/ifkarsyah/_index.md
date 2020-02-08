@@ -21,15 +21,15 @@ role: Informatics Student at Institut Teknologi Bandung
 bio: My interests include data engineering and distributed system.
 
 interests:
+- Back-End Development
 - Data Engineering
 - Distributed System
-- Back-End Development
 
 education:
   courses:
   - course: BSc in Informatics
     institution: Institut Teknologi Bandung
-    year: 2017 - 2021
+    year: 2017 - 2021(expected)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -65,6 +65,6 @@ user_groups:
 ---
 
 
-Ferdian Ifkarsyah is a informatics student at Institut Teknologi Bandung. His main interests include data engineering, distributed system, and back-end development. He loves automates his personal life ranging from deadline management to monthly budgeting.
+Ferdian Ifkarsyah is a informatics student at Institut Teknologi Bandung. His main interests include data engineering, distributed system, and back-end development. He loves automates his personal life ranging from managing deadlines to monthly budgeting.
 
 In his freetime, he loves travelling without a specific destination. He want to go to each 7 continents in the world. 
