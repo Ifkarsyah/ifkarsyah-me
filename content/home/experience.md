@@ -18,6 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Software Engineer, Intern"
+  company = "Shopee"
+  company_url = ""
+  location = "Jakarta, Indonesia"
+  date_start = "2020-05-28"
+  date_end = "2020-08-28"
+  description = """
+  Implemented share & win service leaderboard & claim voucher.
+  Researched & implemented RPC communication service for groupcache library.
+  Optimized insertion query on share & win service by moving it to Redis cache.
+  """
+
+[[experience]]
   title = "Back-End Developer, Intern"
   company = "CICIL"
   company_url = ""
